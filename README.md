@@ -11,3 +11,8 @@ php-gd(如php7.3 是php7.3-gd)
 进入项目目录
 使用`php -S localhost:8080` 启用php自带的测试服务器
 然后访问http://localhost:8080就可以了
+
+
+
+
+***项目原始fork自gmajian的sandphoto项目***
