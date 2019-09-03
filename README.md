@@ -1,4 +1,4 @@
-sandphoto
+sand-photo
 =========
 照片排版
 
@@ -15,4 +15,4 @@ php-gd(如php7.3 是php7.3-gd)
 
 
 
-***项目原始fork自gmajian的sandphoto项目***
+***项目原始fork自[gmajian的sandphoto](https://github.com/gmajian/sandphoto)项目***
